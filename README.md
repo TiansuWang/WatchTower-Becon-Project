@@ -20,4 +20,11 @@ This project create a wireless sensor network to locate robot in plastic/cement 
 5. **system_diagram**: _Program flow charts, operation instruction diagram_
 
 
-
+## module decomposition 
+![decomposition](/image/IMG_1417.png)
+## How it assembled
+![Assembled](/image/IMG_1416.png)
+## In the field 
+![Field](/image/IMG_1397.png)
+## Display on the screen
+![Display](/image/IMG_1399.png)
